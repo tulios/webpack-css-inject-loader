@@ -1,7 +1,7 @@
 {
   "name": "webpack-inject-css-loader",
   "version": "0.1.0",
-  "description": "",
+  "description": "Webpack loader to automatically import CSS/SCSS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
